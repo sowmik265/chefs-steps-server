@@ -16,5 +16,5 @@ app.get('/chefsdetails', (req, res) => {
 })
 
 app.listen(port, () => {
-    // console.log(`food is cooking on port :${port}`)
+    console.log(`food is cooking on port :${port}`)
 });
